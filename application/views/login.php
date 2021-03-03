@@ -26,6 +26,7 @@
 				<td>email</td>
 		<td><input type="email" name="email" placeholder="email"></td>
 			</tr>
+			
 			<tr>
 		<td>password</td>
 			<td><input type="password" name="password" placeholder="password"></td>
